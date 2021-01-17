@@ -1,0 +1,13 @@
+@import "~bootstrap";
+
+.hidden {
+  display: none;
+}
+
+h3 {
+  color: green;
+}
+
+.course-color {
+  background-color: lightblue;
+}

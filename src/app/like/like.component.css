@@ -1,0 +1,13 @@
+@import "~bootstrap";
+
+.glyphicon {
+    font-size: 50px;
+}
+
+#like-count {
+  font-size: 50px;
+}
+
+.like-on {
+  color: red;
+}

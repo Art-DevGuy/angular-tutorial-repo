@@ -1,0 +1,17 @@
+@import "~bootstrap";
+
+app-new-section {
+  background-color: lightblue;
+}
+
+.glyphicon {
+  color: red;
+}
+
+.glyphicon-star, .glyphicon-star-empty {
+  background-color: black;
+}
+
+h3 {
+  color: blue;
+}
